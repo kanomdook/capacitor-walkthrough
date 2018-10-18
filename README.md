@@ -48,6 +48,13 @@ npx cap open ios
 npx cap open android
 ```
 
+## คำสั่งรัน electron
+
+```bash
+cd electron
+npm run electron:start
+```
+
 ## Sync โค้ดแอพไปที่ Capacitor
 
 ```bash
