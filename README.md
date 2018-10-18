@@ -5,7 +5,7 @@
 สร้าง ionic project ตามปกติ แต่ให้ตอบ N ตอนที่ถามเรื่อง cordova
 
 ```bash
-ionic start <APP NAME> tabs
+ionic start <APP NAME> blank
 cd <APP NAME>
 ```
 
